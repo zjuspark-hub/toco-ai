@@ -1,6 +1,11 @@
 <h1 align="center">Toco AI</h1>
 
 <p align="center">
+  <strong>TocoAI: Stop Vibe Coding. 建模驱动的 AI Coding 工具。</strong>
+  <strong>先建模，后写代码。告别“开盲盒”式的 AI 编程。</strong>
+</p>
+
+<p align="center">
   <b><a href="https://github.com/toco-ai/toco-ai/blob/main/README.md">English</a> | <a href="https://github.com/toco-ai/toco-ai/blob/main/README.ja-JP.md">日本語</a> | <a href="https://github.com/toco-ai/toco-ai/blob/main/README.zh-CN.md">中文 (Simplified)</a></b>
 </p>
 
@@ -11,18 +16,16 @@
   <a href="https://x.com/TocoAI"><img src="https://img.shields.io/badge/X-@TocoAI-000000?style=for-the-badge" alt="X" /></a>
 </p>
 
-> **TocoAI: Stop Vibe Coding. 建模驱动的 AI Coding 工具。**
-> 先建模，后写代码。告别“开盲盒”式的 AI 编程。
+<p align="center">
+  <img src="assets/hero.gif" alt="TocoAI: More Reliable AI Architect -> More Controllable Backend Code -> >Easier Backend Changes<" width="800" />
+</p>
 
-[免费体验申请 (首月赠 30,000 Credits)](https://tocoai.dev/) | [官方文档](https://tocoai.dev/) | [Discord 社区](https://discord.gg/NubsdbF3MK) | [关注 X](https://x.com/TocoAI)
+*<p align="center">👆 <b>更可靠的AI架构师</b> ➔ <b>更可控的后端代码</b> ➔ <b>更轻松的后端变更</b></p>*
 
 ---
 
-### ⏱️ 10秒看懂 Toco AI
-![TocoAI: 需求 -> 模型 -> 80% 确定性代码 极速演练|348](https://tocoai-asset.oss-cn-hangzhou.aliyuncs.com/assets/toco-hero-demo.gif)
-*<p align="center">👆 <b>更可靠的AI架构师</b> ➔ <b>更可控的后端代码</b> ➔ <b>更轻松的后端变更</b></p>*
-
-> 💡 **来自 TocoAI 团队的心里话**
+> [!TIP]
+> **来自 TocoAI 团队的心里话**
 > 感谢关注！做 TocoAI 的初衷很简单：我们受够了 AI 无视架构乱写代码，也厌倦了给 AI 逐行排雷。希望这款工具能让你告别到处打补丁的日常，把精力真正还给业务设计。欢迎和我们一起，建立更可靠的 AI 研发规范！🚀
 
 ---
