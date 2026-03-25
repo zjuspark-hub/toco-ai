@@ -1,6 +1,11 @@
 <h1 align="center">Toco AI</h1>
 
 <p align="center">
+  <strong>TocoAI: Stop Vibe Coding. モデル駆動型の AI コーディングツール。</strong>
+  <strong>まずモデリング、コードはその後。「ガチャ」のような運任せのAIプログラミングに別れを告げましょう。</strong>
+</p>
+
+<p align="center">
   <b><a href="https://github.com/toco-ai/toco-ai/blob/main/README.md">English</a> | <a href="https://github.com/toco-ai/toco-ai/blob/main/README.ja-JP.md">日本語</a> | <a href="https://github.com/toco-ai/toco-ai/blob/main/README.zh-CN.md">中文 (Simplified)</a></b>
 </p>
 
@@ -11,18 +16,17 @@
   <a href="https://x.com/TocoAI"><img src="https://img.shields.io/badge/X-@TocoAI-000000?style=for-the-badge" alt="X" /></a>
 </p>
 
-> **TocoAI: Stop Vibe Coding. モデル駆動型の AI コーディングツール。**
-> まずモデリング、コードはその後。「ガチャ」のような運任せのAIプログラミングに別れを告げましょう。
+<p align="center">
+  <img src="assets/hero.gif" alt="TocoAI: More Reliable AI Architect -> More Controllable Backend Code -> >Easier Backend Changes<" width="800" />
+</p>
 
-[無料トライアル申込 (初月 30,000 クレジット付与)](https://tocoai.dev/) | [公式ドキュメント](https://tocoai.dev/) | [Discord コミュニティ](https://discord.gg/NubsdbF3MK) | [X をフォロー](https://x.com/TocoAI)
+*<p align="center">👆 <b>より信頼できるAIアーキテクト</b> ➔ <b>より制御可能なバックエンドコード</b> ➔ <b>より安全な仕様変更</b></p>*
 
 ---
 
-### ⏱️ 10秒でわかる Toco AI
-![TocoAI: Requirements -> Model -> 80% Deterministic Code Quick Demo|348](https://tocoai-asset.oss-cn-hangzhou.aliyuncs.com/assets/toco-hero-demo.gif)
-*<p align="center">👆 <b>より信頼できるAIアーキテクト</b> ➔ <b>より制御可能なバックエンドコード</b> ➔ <b>より安全な仕様変更</b></p>*
-
-> 💡 **TocoAI チームからのメッセージ**
+> [!TIP]
+> **TocoAI チームからのメッセージ**
+> 
 > ご関心をお寄せいただきありがとうございます！TocoAI 開発の動機は非常にシンプルです。私たちは「AIがアーキテクチャを無視してコードを書き散らすこと」や「AIが書いたコードの地雷を一行ずつ取り除く作業」にうんざりしていました。このツールが、ツギハギだらけのコード修正という日常からあなたを解放し、本来のビジネス設計に集中できる環境を取り戻す助けになれば幸いです。私たちと一緒に、より信頼性の高い AI 開発のスタンダードを築いていきましょう！🚀
 
 ---
