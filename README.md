@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/hero.gif" alt="TocoAI: More Reliable AI Architect -> More Controllable Backend Code -> >Easier Backend Changes<" width="800" />
+  <img src="assets/hero_tocoai.gif" alt="TocoAI: More Reliable AI Architect -> More Controllable Backend Code -> >Easier Backend Changes<" width="800" />
 </p>
 
 *<p align="center">👆 <b>More Reliable AI Architect</b> ➔ <b>More Controllable Backend Code</b> ➔ <b>Easier Backend Changes</b></p>*
