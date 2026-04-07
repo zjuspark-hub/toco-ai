@@ -32,7 +32,7 @@ TocoAI是服务端研发的Harness Engineering方案。
 我们用 DSL-Spec 约束大模型生成，并通过建模引擎约束结构性代码（约占80%）。 
 
 <p align="center">
-  <img src="assets/tocoai-arch.png" alt="TocoAI Archtecture" width="800" />
+ <img width="1394" height="497" alt="image" src="https://github.com/user-attachments/assets/ae4645c7-19c4-4937-9856-d1fdfaa02403" />
 </p>
 
 ### 我们的Harness Engineering思路 
