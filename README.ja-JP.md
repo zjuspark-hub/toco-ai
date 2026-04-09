@@ -75,7 +75,7 @@ TocoAI はサーバーサイド開発のための **Harness Engineering** ソリ
 
 <div align="center">
 
-<img src="assets/tocoai-arch.PNG" alt="TocoAI アーキテクチャ" width="100%"/>
+<img src="assets/tocoai-arch.png" alt="TocoAI アーキテクチャ" width="100%"/>
 
 </div>
 

@@ -75,7 +75,7 @@ TocoAI 是服务端研发的 **Harness Engineering** 方案。Spec 不应是一�
 
 <div align="center">
 
-<img src="assets/tocoai-arch.PNG" alt="TocoAI 架构图" width="100%"/>
+<img src="assets/tocoai-arch.png" alt="TocoAI 架构图" width="100%"/>
 
 </div>
 
